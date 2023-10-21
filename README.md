@@ -5,3 +5,9 @@ To enhance the performance of our pre-trained YOLOv8n model, we employ various d
 The dataset used in this phase is composed of 742 images of various boards. These images cover a range of color types, sizes, and perspectives, and often feature multiple, rotated, and overlapped boards. However, we're still in the process of expanding this dataset with additional images, and as such, it's not currently publicly available.
 The performance of the trained model is exhibited below. 
 ![FinalIMG](https://github.com/AliAmini93/Electrical-Board-detection/assets/96921261/5df89c13-7c16-4460-8e1c-663c260b0f06)
+![FinalIMG](https://github.com/AliAmini93/Electrical-Board-detection/assets/96921261/fe0343b8-4d4a-4263-9646-15f79818a79c)
+![93](https://github.com/AliAmini93/Electrical-Board-detection/assets/96921261/10a8fff3-951b-4c2c-87c2-531d2782a742)
+![97](https://github.com/AliAmini93/Electrical-Board-detection/assets/96921261/65ddc1ea-4327-4433-ba03-b3ea180c6f2f)
+![545](https://github.com/AliAmini93/Electrical-Board-detection/assets/96921261/3f4c0f31-991e-4630-ace5-37c575fba67a)
+![confusion_matrix](https://github.com/AliAmini93/Electrical-Board-detection/assets/96921261/f75fdfec-67e9-485b-b96a-32c62fc709c5)
+![results](https://github.com/AliAmini93/Electrical-Board-detection/assets/96921261/775b56be-0ecb-407d-83bb-e6f84cc31607)
