@@ -1,4 +1,4 @@
-# Electrical-Board-detection
+# Electrical-Board-Detection
 The Automated Electrical Board Recognition project is initiated by creating an integrated image from overlapping patches of images captured in the first step. This image is then processed by our model to detect and isolate the electrical board.
 The main objective of this phase is to generate an image that predominantly features the electrical board, while significantly reducing the presence of the background. This refined image, which primarily features the electrical board with minimal background interference, is then forwarded for further analysis in the subsequent stages of the project.
 To enhance the performance of our pre-trained YOLOv8n model, we employ various data augmentation techniques. Data augmentation is a range of techniques used to generate additional training samples by slightly modifying the existing training data. It helps prevent overfitting and enables the model to generalize better.
